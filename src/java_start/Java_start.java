@@ -4,7 +4,7 @@ package java_start;
 public class Java_start {
     
     public static void main(String[] args) {
-        double a = 3.0d;
+        double a = 3.01d;
         double b = 3.89d;
         boolean yep = false;
         System.out.println("Sum is equal "+ (float)(a+b));
